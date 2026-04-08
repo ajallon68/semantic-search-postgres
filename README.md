@@ -36,7 +36,3 @@ CREATE TABLE documentos (
     conteudo TEXT,
     embedding VECTOR(384)
 );
-
-## DEMO
-
-<img width="1919" height="790" alt="image" src="https://github.com/user-attachments/assets/0768cf32-bbf6-4eb8-990e-ebd0d1d77a00" />
