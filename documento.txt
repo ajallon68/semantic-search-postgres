@@ -1,0 +1,3 @@
+Redes neurais são modelos inspirados no cérebro humano.
+Transformers são usados em modelos modernos de linguagem.
+LangChain ajuda a conectar LLMs com dados externos.
